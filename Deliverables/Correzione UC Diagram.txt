@@ -1,0 +1,2 @@
+Cambiare freccia ldap e nss
+Togliere Extend
